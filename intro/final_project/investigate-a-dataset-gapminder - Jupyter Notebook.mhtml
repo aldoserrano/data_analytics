@@ -1,60 +1,60 @@
 From: <Saved by Blink>
-Snapshot-Content-Location: http://localhost:8888/notebooks/Documents/data_analytics/intro/final_project/investigate-a-dataset-gapminder.ipynb#wrangling
+Snapshot-Content-Location: http://localhost:8888/notebooks/Documents/data_analytics/intro/final_project/investigate-a-dataset-gapminder.ipynb
 Subject: investigate-a-dataset-gapminder - Jupyter Notebook
-Date: Mon, 30 Mar 2020 19:24:25 -0000
+Date: Mon, 30 Mar 2020 19:46:55 -0000
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----"
+	boundary="----MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----"
 
 
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/html
-Content-ID: <frame-90DB016B1303674C0A600931C2E09918@mhtml.blink>
+Content-ID: <frame-0CE3B04DB269F3947CF495FA6F70446D@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
-Content-Location: http://localhost:8888/notebooks/Documents/data_analytics/intro/final_project/investigate-a-dataset-gapminder.ipynb#wrangling
+Content-Location: http://localhost:8888/notebooks/Documents/data_analytics/intro/final_project/investigate-a-dataset-gapminder.ipynb
 
 <!DOCTYPE html><html lang=3D"en-us"><head><meta http-equiv=3D"Content-Type"=
  content=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"te=
-xt/css" href=3D"cid:css-2a4206f8-9ea6-460a-bc30-7c2b653c6629@mhtml.blink" /=
-><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-e6b3651d-df23-4=
-161-8acd-774cd909dcec@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/=
-css" href=3D"cid:css-99735dc8-1100-4a5a-96f1-00d05d628eb0@mhtml.blink" /><l=
-ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-e074ed31-4919-482f=
--ad7b-f25e5a8bab2e@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
-" href=3D"cid:css-9b129722-1a9c-4cb3-aad2-f7616713b634@mhtml.blink" /><link=
- rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-d45ac23e-cc67-4dfe-b4=
-f9-4d1a044e446a@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" h=
-ref=3D"cid:css-73cf73e7-52d2-44e9-8675-6136134fd6b1@mhtml.blink" /><link re=
-l=3D"stylesheet" type=3D"text/css" href=3D"cid:css-db287821-425b-4390-a044-=
-bda22e6c3b0c@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-c2423cf7-b143-4952-8cbb-2d8372405f95@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-c69c7ce0-bf10-4e29-984f-3=
-5a477826b2a@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-81dfb72a-3d13-4288-bd03-83f31ffd541c@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-7bb91961-43e4-4771-ad21-e=
-fd69780d18a@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-d225d247-6386-4f3e-bf61-f3120d3bf10f@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-f6008a83-ac69-4aaf-ac5d-3=
-734efe3fdbe@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-25e8b879-2fd0-499d-a8e5-4b95700c032e@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-8123f0c9-5ac7-4a59-815a-b=
-d0f07cacde9@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-8e2d7185-fdf4-493c-b31a-937c70fe1434@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-822f35b7-9a4a-4fb5-be64-e=
-fc0c9248c42@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-5a115560-20cd-4193-b187-7af239728f72@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-356f9414-fc82-4f9e-9199-9=
-d99a2817ae5@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-51aa4345-4a89-44e0-a62c-39b62e6d6d64@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-25e42489-2c06-4c53-9666-c=
-ad9b53a394d@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-e25effc7-d317-4dba-b334-66d8dff6fddb@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-78df9095-5853-4a93-970d-d=
-7dae18954f8@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
-=3D"cid:css-969357db-16d9-4d4c-a929-002a412e5e8b@mhtml.blink" /><link rel=
-=3D"stylesheet" type=3D"text/css" href=3D"cid:css-3f1638a5-1a74-4654-8d3d-6=
-21c8cdccc94@mhtml.blink" />
+xt/css" href=3D"cid:css-7775217b-0548-4ddc-9f50-4ad2434bce81@mhtml.blink" /=
+><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-fa21731d-c54d-4=
+cb6-aaad-09401864423c@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-e6190839-3356-49ce-b8f2-3e55e8bf0662@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-dc65f74b-bb42-4957=
+-881c-95f0411c3f6c@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-e42273d7-b64f-4ec6-ae03-bda89393118e@mhtml.blink" /><link=
+ rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-7f536a63-d5f3-4de4-96=
+0d-5e3c80d2d89e@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" h=
+ref=3D"cid:css-f72e1837-4207-4823-b4a2-45c7736de8d9@mhtml.blink" /><link re=
+l=3D"stylesheet" type=3D"text/css" href=3D"cid:css-b5bbf80a-9f1a-404e-8c32-=
+233ea12626b9@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-559638f7-ac74-4087-89ee-6ff33ff7d65a@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-74b6ac0c-d52d-458e-aeed-1=
+5f6c5c74745@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-14536269-5c4f-40c6-ac5b-f3f2d24edc5f@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-ba478326-6579-4481-9d16-a=
+e1718bb724c@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-62675c2f-6c22-4bea-94a0-3d14710e51d8@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-097a4672-aec4-4063-a58f-a=
+71bb1b26f6b@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-c4b60de9-78cb-4002-89f0-58637a93568a@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-7824e295-f19d-43de-ac23-b=
+d6214cc3ef1@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-960b318b-ec72-422c-a98e-840aa501f272@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-51b7d252-b7dc-42b8-aaff-d=
+3ae17d8c094@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-b9918caf-c561-4120-8428-8279b83c7fbc@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-a51c8850-9e19-4f73-ba08-9=
+78af5ebcd11@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-4dfa124a-24f6-4751-af5f-d67d6db01793@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-db401c68-bcc1-4422-b84b-f=
+6880f547b9c@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-31599eed-ee3a-483c-98a4-a7d21f91deb6@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-42b26d3a-7d37-4619-bbc6-b=
+5ac0c4bffb1@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-50c5aab7-45c8-4d88-8fef-8c4a3b88edaa@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-675883ce-ad09-4a5b-9365-c=
+3e2e58b1747@mhtml.blink" />
    =20
 
     <title>investigate-a-dataset-gapminder - Jupyter Notebook</title>
@@ -104,10 +104,10 @@ s" type=3D"text/css">
    =20
    =20
 
-<link id=3D"favicon" type=3D"image/x-icon" rel=3D"shortcut icon" href=3D"ht=
-tp://localhost:8888/static/base/images/favicon-notebook.ico"><link rel=3D"s=
-tylesheet" type=3D"text/css" href=3D"http://localhost:8888/nbextensions/nb_=
-conda/conda.css"></head>
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"http://localhost:8888/nb=
+extensions/nb_conda/conda.css"><link id=3D"favicon" type=3D"image/x-icon" r=
+el=3D"shortcut icon" href=3D"http://localhost:8888/static/base/images/favic=
+on-notebook.ico"></head>
 
 <body class=3D"notebook_app command_mode" data-base-url=3D"/" data-ws-url=
 =3D"" data-notebook-name=3D"investigate-a-dataset-gapminder.ipynb" data-not=
@@ -136,8 +136,8 @@ play: block;">
 <span id=3D"save_widget" class=3D"save_widget">
     <span id=3D"notebook_name" class=3D"filename">investigate-a-dataset-gap=
 minder</span>
-    <span class=3D"checkpoint_status" title=3D"Mon, Mar 30, 2020 12:21 PM">=
-Last Checkpoint: 2 minutes ago</span>
+    <span class=3D"checkpoint_status" title=3D"Mon, Mar 30, 2020 12:43 PM">=
+Last Checkpoint: 3 minutes ago</span>
     <span class=3D"autosave_status">(autosaved)</span>
 </span>
 
@@ -268,7 +268,7 @@ le=3D"menuitem">Revert to Checkpoint<span class=3D"sr-only">Toggle Dropdown=
 </span></a>
                           <ul class=3D"dropdown-menu"><li><a href=3D"http:/=
 /localhost:8888/notebooks/Documents/data_analytics/intro/final_project/inve=
-stigate-a-dataset-gapminder.ipynb#">Monday, March 30, 2020 12:21 PM</a></li=
+stigate-a-dataset-gapminder.ipynb#">Monday, March 30, 2020 12:43 PM</a></li=
 ></ul>
                         </li>
                         <li class=3D"divider" role=3D"none"></li>
@@ -1137,7 +1137,7 @@ he Italian statistician and sociologist Corrado Gini and published in his 1=
 912 paper Variability and Mutability. </p>
 </div></div></div><div class=3D"cell code_cell unselected rendered" tabinde=
 x=3D"2"><div class=3D"input"><div class=3D"prompt_container"><div class=3D"=
-prompt input_prompt"><bdi>In</bdi>&nbsp;[369]:</div><div class=3D"run_this_=
+prompt input_prompt"><bdi>In</bdi>&nbsp;[633]:</div><div class=3D"run_this_=
 cell" title=3D"Run this cell"><i class=3D"fa-step-forward fa"></i></div></d=
 iv><div class=3D"inner_cell"><div class=3D"ctb_hideshow"><div class=3D"cell=
 toolbar"></div></div><div class=3D"input_area" aria-label=3D"Edit code here=
@@ -1153,113 +1153,8 @@ events: none;"><div style=3D"min-width: 1px; height: 0px;"></div></div><div=
 dth: 0px;"></div></div><div class=3D"CodeMirror-scrollbar-filler" cm-not-co=
 ntent=3D"true"></div><div class=3D"CodeMirror-gutter-filler" cm-not-content=
 =3D"true"></div><div class=3D"CodeMirror-scroll" tabindex=3D"-1"><div class=
-=3D"CodeMirror-sizer" style=3D"margin-left: 34px; min-width: 692.719px; mar=
-gin-bottom: 0px; border-right-width: 30px; min-height: 198px; padding-right=
-: 0px; padding-bottom: 0px;"><div style=3D"position: relative; top: 0px;"><=
-div class=3D"CodeMirror-lines" role=3D"presentation"><div role=3D"presentat=
-ion" style=3D"position: relative; outline: none;"><div class=3D"CodeMirror-=
-measure"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt"><div>1<=
-/div></div><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt"><div>=
-11</div></div></div><div class=3D"CodeMirror-measure"></div><div style=3D"p=
-osition: relative; z-index: 1;"></div><div class=3D"CodeMirror-cursors"><di=
-v class=3D"CodeMirror-cursor" style=3D"left: 5.59375px; top: 0px; height: 1=
-7px;">&nbsp;</div></div><div class=3D"CodeMirror-code" role=3D"presentation=
-" style=3D""><div style=3D"position: relative;"><div class=3D"CodeMirror-gu=
-tter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber Co=
-deMirror-gutter-elt" style=3D"left: 0px; width: 21px;">1</div></div><pre cl=
-ass=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presentation"=
- style=3D"padding-right: 0.1px;"><span class=3D"cm-comment"># Use this cell=
- to set up import statements for all of the packages that you</span></span>=
-</pre></div><div style=3D"position: relative;"><div class=3D"CodeMirror-gut=
-ter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber Cod=
-eMirror-gutter-elt" style=3D"left: 0px; width: 21px;">2</div></div><pre cla=
-ss=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presentation" =
-style=3D"padding-right: 0.1px;"><span class=3D"cm-comment">#   plan to use.=
-</span></span></pre></div><div style=3D"position: relative;"><div class=3D"=
-CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-=
-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">3</div>=
-</div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"=
-presentation" style=3D"padding-right: 0.1px;"><span class=3D"cm-keyword">im=
-port</span> <span class=3D"cm-variable">pandas</span> <span class=3D"cm-key=
-word">as</span> <span class=3D"cm-variable">pd</span></span></pre></div><di=
-v style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" st=
-yle=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-=
-elt" style=3D"left: 0px; width: 21px;">4</div></div><pre class=3D" CodeMirr=
-or-line " role=3D"presentation"><span role=3D"presentation" style=3D"paddin=
-g-right: 0.1px;"><span class=3D"cm-keyword">import</span> <span class=3D"cm=
--variable">numpy</span> <span class=3D"cm-keyword">as</span> <span class=3D=
-"cm-variable">np</span></span></pre></div><div style=3D"position: relative;=
-"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div clas=
-s=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width=
-: 21px;">5</div></div><pre class=3D" CodeMirror-line " role=3D"presentation=
-"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><span class=
-=3D"cm-keyword">import</span> <span class=3D"cm-variable">matplotlib</span>=
-.<span class=3D"cm-property">pyplot</span> <span class=3D"cm-keyword">as</s=
-pan> <span class=3D"cm-variable">plt</span></span></pre></div><div style=3D=
-"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"lef=
-t: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=
-=3D"left: 0px; width: 21px;">6</div></div><pre class=3D" CodeMirror-line " =
-role=3D"presentation"><span role=3D"presentation" style=3D"padding-right: 0=
-.1px;"><span class=3D"cm-keyword">import</span> <span class=3D"cm-variable"=
->plotly</span>.<span class=3D"cm-property">express</span> <span class=3D"cm=
--keyword">as</span> <span class=3D"cm-variable">px</span></span></pre></div=
-><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper=
-" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gut=
-ter-elt" style=3D"left: 0px; width: 21px;">7</div></div><pre class=3D" Code=
-Mirror-line " role=3D"presentation"><span role=3D"presentation" style=3D"pa=
-dding-right: 0.1px;"><span cm-text=3D"">=E2=80=8B</span></span></pre></div>=
-<div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper"=
- style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutt=
-er-elt" style=3D"left: 0px; width: 21px;">8</div></div><pre class=3D" CodeM=
-irror-line " role=3D"presentation"><span role=3D"presentation" style=3D"pad=
-ding-right: 0.1px;"><span class=3D"cm-comment"># Remember to include a 'mag=
-ic word' so that your visualizations are plotted</span></span></pre></div><=
-div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" =
-style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutte=
-r-elt" style=3D"left: 0px; width: 21px;">9</div></div><pre class=3D" CodeMi=
-rror-line " role=3D"presentation"><span role=3D"presentation" style=3D"padd=
-ing-right: 0.1px;"><span class=3D"cm-comment">#   inline with the notebook.=
- See this page for more:</span></span></pre></div><div style=3D"position: r=
-elative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><=
-div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0p=
-x; width: 21px;">10</div></div><pre class=3D" CodeMirror-line " role=3D"pre=
-sentation"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><spa=
-n class=3D"cm-comment">#   http://ipython.readthedocs.io/en/stable/interact=
-ive/magics.html</span></span></pre></div><div style=3D"position: relative;"=
-><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=
-=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width:=
- 21px;">11</div></div><pre class=3D" CodeMirror-line " role=3D"presentation=
-"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><span class=
-=3D"cm-operator">%</span><span class=3D"cm-variable">matplotlib</span> <spa=
-n class=3D"cm-variable">inline</span></span></pre></div></div></div></div><=
-/div></div><div style=3D"position: absolute; height: 30px; width: 1px; bord=
-er-bottom: 0px solid transparent; top: 198px;"></div><div class=3D"CodeMirr=
-or-gutters" style=3D"height: 228px; left: 0px;"><div class=3D"CodeMirror-gu=
-tter CodeMirror-linenumbers" style=3D"width: 33px;"></div></div></div></div=
-></div></div></div><div class=3D"output_wrapper"><div class=3D"out_prompt_o=
-verlay prompt" title=3D"click to expand output; double click to hide output=
-"></div><div class=3D"output"></div><div class=3D"btn btn-default output_co=
-llapsed" title=3D"click to expand output" style=3D"display: none;">. . .</d=
-iv></div></div><div class=3D"cell code_cell unselected rendered" tabindex=
-=3D"2"><div class=3D"input"><div class=3D"prompt_container"><div class=3D"p=
-rompt input_prompt"><bdi>In</bdi>&nbsp;[370]:</div><div class=3D"run_this_c=
-ell" title=3D"Run this cell"><i class=3D"fa-step-forward fa"></i></div></di=
-v><div class=3D"inner_cell"><div class=3D"ctb_hideshow"><div class=3D"cellt=
-oolbar"></div></div><div class=3D"input_area" aria-label=3D"Edit code here"=
-><div class=3D"CodeMirror cm-s-ipython"><div style=3D"overflow: hidden; pos=
-ition: relative; width: 3px; height: 0px; top: 5.59375px; left: 39.5938px;"=
-><textarea autocorrect=3D"off" autocapitalize=3D"off" spellcheck=3D"false" =
-tabindex=3D"0" style=3D"position: absolute; bottom: -1em; padding: 0px; wid=
-th: 1000px; height: 1em; outline: none;"></textarea></div><div class=3D"Cod=
-eMirror-vscrollbar" cm-not-content=3D"true" style=3D"width: 18px; pointer-e=
-vents: none;"><div style=3D"min-width: 1px; height: 0px;"></div></div><div =
-class=3D"CodeMirror-hscrollbar" cm-not-content=3D"true" style=3D"height: 18=
-px; pointer-events: none;"><div style=3D"height: 100%; min-height: 1px; wid=
-th: 0px;"></div></div><div class=3D"CodeMirror-scrollbar-filler" cm-not-con=
-tent=3D"true"></div><div class=3D"CodeMirror-gutter-filler" cm-not-content=
-=3D"true"></div><div class=3D"CodeMirror-scroll" tabindex=3D"-1"><div class=
-=3D"CodeMirror-sizer" style=3D"margin-left: 34px; min-width: 341.734px; mar=
-gin-bottom: 0px; border-right-width: 30px; min-height: 62px; padding-right:=
+=3D"CodeMirror-sizer" style=3D"margin-left: 34px; min-width: 287.734px; mar=
+gin-bottom: 0px; border-right-width: 30px; min-height: 96px; padding-right:=
  0px; padding-bottom: 0px;"><div style=3D"position: relative; top: 0px;"><d=
 iv class=3D"CodeMirror-lines" role=3D"presentation"><div role=3D"presentati=
 on" style=3D"position: relative; outline: none;"><div class=3D"CodeMirror-m=
@@ -1267,289 +1162,359 @@ easure"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt"><div>1</=
 div></div></div><div class=3D"CodeMirror-measure"></div><div style=3D"posit=
 ion: relative; z-index: 1;"></div><div class=3D"CodeMirror-cursors"><div cl=
 ass=3D"CodeMirror-cursor" style=3D"left: 5.59375px; top: 0px; height: 17px;=
-">&nbsp;</div></div><div class=3D"CodeMirror-code" role=3D"presentation"><d=
-iv style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" s=
-tyle=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter=
--elt" style=3D"left: 0px; width: 21px;">1</div></div><pre class=3D" CodeMir=
-ror-line " role=3D"presentation"><span role=3D"presentation" style=3D"paddi=
-ng-right: 0.1px;"><span class=3D"cm-variable">pd</span>.<span class=3D"cm-p=
-roperty">set_option</span>(<span class=3D"cm-string">'display.max_rows'</sp=
-an>, <span class=3D"cm-number">10</span>)</span></pre></div><div style=3D"p=
-osition: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left:=
- -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=
-=3D"left: 0px; width: 21px;">2</div></div><pre class=3D" CodeMirror-line " =
-role=3D"presentation"><span role=3D"presentation" style=3D"padding-right: 0=
-.1px;"><span class=3D"cm-variable">pd</span>.<span class=3D"cm-property">op=
-tions</span>.<span class=3D"cm-property">display</span>.<span class=3D"cm-p=
-roperty">max_columns</span> <span class=3D"cm-operator">=3D</span> <span cl=
-ass=3D"cm-number">100</span></span></pre></div><div style=3D"position: rela=
+">&nbsp;</div></div><div class=3D"CodeMirror-code" role=3D"presentation" st=
+yle=3D""><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter=
+-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMi=
+rror-gutter-elt" style=3D"left: 0px; width: 21px;">1</div></div><pre class=
+=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presentation" st=
+yle=3D"padding-right: 0.1px;"><span class=3D"cm-keyword">import</span> <spa=
+n class=3D"cm-variable">pandas</span> <span class=3D"cm-keyword">as</span> =
+<span class=3D"cm-variable">pd</span></span></pre></div><div style=3D"posit=
+ion: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34=
+px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"le=
+ft: 0px; width: 21px;">2</div></div><pre class=3D" CodeMirror-line " role=
+=3D"presentation"><span role=3D"presentation" style=3D"padding-right: 0.1px=
+;"><span class=3D"cm-keyword">import</span> <span class=3D"cm-variable">num=
+py</span> <span class=3D"cm-keyword">as</span> <span class=3D"cm-variable">=
+np</span></span></pre></div><div style=3D"position: relative;"><div class=
+=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMir=
+ror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">3</=
+div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=
+=3D"presentation" style=3D"padding-right: 0.1px;"><span class=3D"cm-keyword=
+">import</span> <span class=3D"cm-variable">matplotlib</span>.<span class=
+=3D"cm-property">pyplot</span> <span class=3D"cm-keyword">as</span> <span c=
+lass=3D"cm-variable">plt</span></span></pre></div><div style=3D"position: r=
+elative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><=
+div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0p=
+x; width: 21px;">4</div></div><pre class=3D" CodeMirror-line " role=3D"pres=
+entation"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><span=
+ class=3D"cm-keyword">import</span> <span class=3D"cm-variable">plotly</spa=
+n>.<span class=3D"cm-property">express</span> <span class=3D"cm-keyword">as=
+</span> <span class=3D"cm-variable">px</span></span></pre></div><div style=
+=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"=
+left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" st=
+yle=3D"left: 0px; width: 21px;">5</div></div><pre class=3D" CodeMirror-line=
+ " role=3D"presentation"><span role=3D"presentation" style=3D"padding-right=
+: 0.1px;"><span class=3D"cm-operator">%</span><span class=3D"cm-variable">m=
+atplotlib</span> <span class=3D"cm-variable">inline</span></span></pre></di=
+v></div></div></div></div></div><div style=3D"position: absolute; height: 3=
+0px; width: 1px; border-bottom: 0px solid transparent; top: 96px;"></div><d=
+iv class=3D"CodeMirror-gutters" style=3D"height: 126px; left: 0px;"><div cl=
+ass=3D"CodeMirror-gutter CodeMirror-linenumbers" style=3D"width: 33px;"></d=
+iv></div></div></div></div></div></div><div class=3D"output_wrapper"><div c=
+lass=3D"out_prompt_overlay prompt" title=3D"click to expand output; double =
+click to hide output"></div><div class=3D"output"></div><div class=3D"btn b=
+tn-default output_collapsed" title=3D"click to expand output" style=3D"disp=
+lay: none;">. . .</div></div></div><div class=3D"cell code_cell unselected =
+rendered" tabindex=3D"2"><div class=3D"input"><div class=3D"prompt_containe=
+r"><div class=3D"prompt input_prompt"><bdi>In</bdi>&nbsp;[370]:</div><div c=
+lass=3D"run_this_cell" title=3D"Run this cell"><i class=3D"fa-step-forward =
+fa"></i></div></div><div class=3D"inner_cell"><div class=3D"ctb_hideshow"><=
+div class=3D"celltoolbar"></div></div><div class=3D"input_area" aria-label=
+=3D"Edit code here"><div class=3D"CodeMirror cm-s-ipython"><div style=3D"ov=
+erflow: hidden; position: relative; width: 3px; height: 0px; top: 5.59375px=
+; left: 39.5938px;"><textarea autocorrect=3D"off" autocapitalize=3D"off" sp=
+ellcheck=3D"false" tabindex=3D"0" style=3D"position: absolute; bottom: -1em=
+; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></di=
+v><div class=3D"CodeMirror-vscrollbar" cm-not-content=3D"true" style=3D"wid=
+th: 18px; pointer-events: none;"><div style=3D"min-width: 1px; height: 0px;=
+"></div></div><div class=3D"CodeMirror-hscrollbar" cm-not-content=3D"true" =
+style=3D"height: 18px; pointer-events: none;"><div style=3D"height: 100%; m=
+in-height: 1px; width: 0px;"></div></div><div class=3D"CodeMirror-scrollbar=
+-filler" cm-not-content=3D"true"></div><div class=3D"CodeMirror-gutter-fill=
+er" cm-not-content=3D"true"></div><div class=3D"CodeMirror-scroll" tabindex=
+=3D"-1"><div class=3D"CodeMirror-sizer" style=3D"margin-left: 34px; min-wid=
+th: 341.734px; margin-bottom: 0px; border-right-width: 30px; min-height: 62=
+px; padding-right: 0px; padding-bottom: 0px;"><div style=3D"position: relat=
+ive; top: 0px;"><div class=3D"CodeMirror-lines" role=3D"presentation"><div =
+role=3D"presentation" style=3D"position: relative; outline: none;"><div cla=
+ss=3D"CodeMirror-measure"><div class=3D"CodeMirror-linenumber CodeMirror-gu=
+tter-elt"><div>1</div></div></div><div class=3D"CodeMirror-measure"></div><=
+div style=3D"position: relative; z-index: 1;"></div><div class=3D"CodeMirro=
+r-cursors"><div class=3D"CodeMirror-cursor" style=3D"left: 5.59375px; top: =
+0px; height: 17px;">&nbsp;</div></div><div class=3D"CodeMirror-code" role=
+=3D"presentation"><div style=3D"position: relative;"><div class=3D"CodeMirr=
+or-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumb=
+er CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">1</div></div><p=
+re class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presenta=
+tion" style=3D"padding-right: 0.1px;"><span class=3D"cm-variable">pd</span>=
+.<span class=3D"cm-property">set_option</span>(<span class=3D"cm-string">'d=
+isplay.max_rows'</span>, <span class=3D"cm-number">10</span>)</span></pre><=
+/div><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wra=
+pper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror=
+-gutter-elt" style=3D"left: 0px; width: 21px;">2</div></div><pre class=3D" =
+CodeMirror-line " role=3D"presentation"><span role=3D"presentation" style=
+=3D"padding-right: 0.1px;"><span class=3D"cm-variable">pd</span>.<span clas=
+s=3D"cm-property">options</span>.<span class=3D"cm-property">display</span>=
+.<span class=3D"cm-property">max_columns</span> <span class=3D"cm-operator"=
+>=3D</span> <span class=3D"cm-number">100</span></span></pre></div><div sty=
+le=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=
+=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt=
+" style=3D"left: 0px; width: 21px;">3</div></div><pre class=3D" CodeMirror-=
+line " role=3D"presentation"><span role=3D"presentation" style=3D"padding-r=
+ight: 0.1px;"><span class=3D"cm-variable">pd</span>.<span class=3D"cm-prope=
+rty">set_option</span>(<span class=3D"cm-string">"display.precision"</span>=
+, <span class=3D"cm-number">2</span>)</span></pre></div></div></div></div><=
+/div></div><div style=3D"position: absolute; height: 30px; width: 1px; bord=
+er-bottom: 0px solid transparent; top: 62px;"></div><div class=3D"CodeMirro=
+r-gutters" style=3D"height: 92px; left: 0px;"><div class=3D"CodeMirror-gutt=
+er CodeMirror-linenumbers" style=3D"width: 33px;"></div></div></div></div><=
+/div></div></div><div class=3D"output_wrapper"><div class=3D"out_prompt_ove=
+rlay prompt" title=3D"click to expand output; double click to hide output">=
+</div><div class=3D"output"></div><div class=3D"btn btn-default output_coll=
+apsed" title=3D"click to expand output" style=3D"display: none;">. . .</div=
+></div></div><div class=3D"cell text_cell unselected rendered" tabindex=3D"=
+2"><div class=3D"prompt input_prompt"></div><div class=3D"inner_cell"><div =
+class=3D"ctb_hideshow"><div class=3D"celltoolbar"></div></div><div class=3D=
+"input_area" aria-label=3D"Edit Markup Text here"><div class=3D"CodeMirror =
+cm-s-default CodeMirror-wrap"><div style=3D"overflow: hidden; position: rel=
+ative; width: 3px; height: 0px; top: 5.59375px; left: 39.5938px;"><textarea=
+ autocorrect=3D"off" autocapitalize=3D"off" spellcheck=3D"false" tabindex=
+=3D"0" style=3D"position: absolute; bottom: -1em; padding: 0px; width: 1000=
+px; height: 1em; outline: none;"></textarea></div><div class=3D"CodeMirror-=
+vscrollbar" cm-not-content=3D"true" style=3D"bottom: 0px; width: 18px; poin=
+ter-events: none;"><div style=3D"min-width: 1px; height: 0px;"></div></div>=
+<div class=3D"CodeMirror-hscrollbar" cm-not-content=3D"true" style=3D"heigh=
+t: 18px; pointer-events: none;"><div style=3D"height: 100%; min-height: 1px=
+; width: 0px;"></div></div><div class=3D"CodeMirror-scrollbar-filler" cm-no=
+t-content=3D"true"></div><div class=3D"CodeMirror-gutter-filler" cm-not-con=
+tent=3D"true"></div><div class=3D"CodeMirror-scroll" tabindex=3D"-1"><div c=
+lass=3D"CodeMirror-sizer" style=3D"margin-left: 34px; padding-right: 0px; p=
+adding-bottom: 0px; margin-bottom: 0px; border-right-width: 30px; min-heigh=
+t: 934px;"><div style=3D"position: relative; top: 0px;"><div class=3D"CodeM=
+irror-lines" role=3D"presentation"><div role=3D"presentation" style=3D"posi=
+tion: relative; outline: none;"><div class=3D"CodeMirror-measure"><div clas=
+s=3D"CodeMirror-linenumber CodeMirror-gutter-elt"><div>37</div></div></div>=
+<div class=3D"CodeMirror-measure"></div><div style=3D"position: relative; z=
+-index: 1;"></div><div class=3D"CodeMirror-cursors"><div class=3D"CodeMirro=
+r-cursor" style=3D"left: 5.59375px; top: 0px; height: 17px;">&nbsp;</div></=
+div><div class=3D"CodeMirror-code" role=3D"presentation" style=3D""><div st=
+yle=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=
+=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt=
+" style=3D"left: 0px; width: 21px;">1</div></div><pre class=3D" CodeMirror-=
+line " role=3D"presentation"><span role=3D"presentation" style=3D"padding-r=
+ight: 0.1px;"><span class=3D"cm-tag cm-bracket">&lt;</span><span class=3D"c=
+m-tag">a</span> <span class=3D"cm-attribute">id</span>=3D<span class=3D"cm-=
+string">'wrangling'</span><span class=3D"cm-tag cm-bracket">&gt;&lt;/</span=
+><span class=3D"cm-tag">a</span><span class=3D"cm-tag cm-bracket">&gt;</spa=
+n></span></pre></div><div style=3D"position: relative;"><div class=3D"CodeM=
+irror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-linen=
+umber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">2</div></div=
+><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"prese=
+ntation" style=3D"padding-right: 0.1px;"><span class=3D"cm-header cm-header=
+-2">## Data Wrangling</span></span></pre></div><div style=3D"position: rela=
 tive;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div=
  class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; =
 width: 21px;">3</div></div><pre class=3D" CodeMirror-line " role=3D"present=
-ation"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><span cl=
-ass=3D"cm-variable">pd</span>.<span class=3D"cm-property">set_option</span>=
-(<span class=3D"cm-string">"display.precision"</span>, <span class=3D"cm-nu=
-mber">2</span>)</span></pre></div></div></div></div></div></div><div style=
-=3D"position: absolute; height: 30px; width: 1px; border-bottom: 0px solid =
-transparent; top: 62px;"></div><div class=3D"CodeMirror-gutters" style=3D"h=
-eight: 92px; left: 0px;"><div class=3D"CodeMirror-gutter CodeMirror-linenum=
-bers" style=3D"width: 33px;"></div></div></div></div></div></div></div><div=
- class=3D"output_wrapper"><div class=3D"out_prompt_overlay prompt" title=3D=
-"click to expand output; double click to hide output"></div><div class=3D"o=
-utput"></div><div class=3D"btn btn-default output_collapsed" title=3D"click=
- to expand output" style=3D"display: none;">. . .</div></div></div><div cla=
-ss=3D"cell text_cell unselected rendered" tabindex=3D"2"><div class=3D"prom=
-pt input_prompt"></div><div class=3D"inner_cell"><div class=3D"ctb_hideshow=
-"><div class=3D"celltoolbar"></div></div><div class=3D"input_area" aria-lab=
-el=3D"Edit Markup Text here"><div class=3D"CodeMirror cm-s-default CodeMirr=
-or-wrap"><div style=3D"overflow: hidden; position: relative; width: 3px; he=
-ight: 0px; top: 5.59375px; left: 39.5938px;"><textarea autocorrect=3D"off" =
-autocapitalize=3D"off" spellcheck=3D"false" tabindex=3D"0" style=3D"positio=
-n: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outlin=
-e: none;"></textarea></div><div class=3D"CodeMirror-vscrollbar" cm-not-cont=
-ent=3D"true" style=3D"bottom: 0px; width: 18px; pointer-events: none;"><div=
- style=3D"min-width: 1px; height: 0px;"></div></div><div class=3D"CodeMirro=
-r-hscrollbar" cm-not-content=3D"true" style=3D"height: 18px; pointer-events=
-: none;"><div style=3D"height: 100%; min-height: 1px; width: 0px;"></div></=
-div><div class=3D"CodeMirror-scrollbar-filler" cm-not-content=3D"true"></di=
-v><div class=3D"CodeMirror-gutter-filler" cm-not-content=3D"true"></div><di=
-v class=3D"CodeMirror-scroll" tabindex=3D"-1"><div class=3D"CodeMirror-size=
-r" style=3D"margin-left: 34px; padding-right: 0px; padding-bottom: 0px; mar=
-gin-bottom: 0px; border-right-width: 30px; min-height: 934px;"><div style=
-=3D"position: relative; top: 0px;"><div class=3D"CodeMirror-lines" role=3D"=
-presentation"><div role=3D"presentation" style=3D"position: relative; outli=
-ne: none;"><div class=3D"CodeMirror-measure"><div class=3D"CodeMirror-linen=
-umber CodeMirror-gutter-elt"><div>37</div></div></div><div class=3D"CodeMir=
-ror-measure"></div><div style=3D"position: relative; z-index: 1;"></div><di=
-v class=3D"CodeMirror-cursors"><div class=3D"CodeMirror-cursor" style=3D"le=
-ft: 5.59375px; top: 0px; height: 17px;">&nbsp;</div></div><div class=3D"Cod=
-eMirror-code" role=3D"presentation" style=3D""><div style=3D"position: rela=
-tive;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div=
- class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; =
-width: 21px;">1</div></div><pre class=3D" CodeMirror-line " role=3D"present=
-ation"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><span cl=
-ass=3D"cm-tag cm-bracket">&lt;</span><span class=3D"cm-tag">a</span> <span =
-class=3D"cm-attribute">id</span>=3D<span class=3D"cm-string">'wrangling'</s=
-pan><span class=3D"cm-tag cm-bracket">&gt;&lt;/</span><span class=3D"cm-tag=
-">a</span><span class=3D"cm-tag cm-bracket">&gt;</span></span></pre></div><=
+ation"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><span cm=
+-text=3D"">=E2=80=8B</span></span></pre></div><div style=3D"position: relat=
+ive;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div =
+class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; w=
+idth: 21px;">4</div></div><pre class=3D" CodeMirror-line " role=3D"presenta=
+tion"><span role=3D"presentation" style=3D"padding-right: 0.1px;">In this s=
+ection of the report, the data was loaded, checks for cleanliness was done,=
+ and findings reported.</span></pre></div><div style=3D"position: relative;=
+"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div clas=
+s=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width=
+: 21px;">5</div></div><pre class=3D" CodeMirror-line " role=3D"presentation=
+"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><span class=
+=3D"cm-header cm-header-3">### General Properties</span></span></pre></div>=
+<div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper"=
+ style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutt=
+er-elt" style=3D"left: 0px; width: 21px;">6</div></div><pre class=3D" CodeM=
+irror-line " role=3D"presentation"><span role=3D"presentation" style=3D"pad=
+ding-right: 0.1px;"><span cm-text=3D"">=E2=80=8B</span></span></pre></div><=
 div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" =
 style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutte=
-r-elt" style=3D"left: 0px; width: 21px;">2</div></div><pre class=3D" CodeMi=
+r-elt" style=3D"left: 0px; width: 21px;">7</div></div><pre class=3D" CodeMi=
 rror-line " role=3D"presentation"><span role=3D"presentation" style=3D"padd=
-ing-right: 0.1px;"><span class=3D"cm-header cm-header-2">## Data Wrangling<=
-/span></span></pre></div><div style=3D"position: relative;"><div class=3D"C=
-odeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-l=
-inenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">3</div><=
-/div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"p=
-resentation" style=3D"padding-right: 0.1px;"><span cm-text=3D"">=E2=80=8B</=
-span></span></pre></div><div style=3D"position: relative;"><div class=3D"Co=
-deMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-li=
-nenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">4</div></=
-div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"pr=
-esentation" style=3D"padding-right: 0.1px;">In this section of the report, =
-the data was loaded, checks for cleanliness was done, and findings reported=
-.</span></pre></div><div style=3D"position: relative;"><div class=3D"CodeMi=
-rror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenu=
-mber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">5</div></div>=
-<pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presen=
-tation" style=3D"padding-right: 0.1px;"><span class=3D"cm-header cm-header-=
-3">### General Properties</span></span></pre></div><div style=3D"position: =
-relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;">=
-<div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0=
-px; width: 21px;">6</div></div><pre class=3D" CodeMirror-line " role=3D"pre=
-sentation"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><spa=
-n cm-text=3D"">=E2=80=8B</span></span></pre></div><div style=3D"position: r=
-elative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><=
-div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0p=
-x; width: 21px;">7</div></div><pre class=3D" CodeMirror-line " role=3D"pres=
-entation"><span role=3D"presentation" style=3D"padding-right: 0.1px;">The d=
-ataset contains data from the following GapMinder datasets:</span></pre></d=
-iv><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapp=
-er" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-g=
-utter-elt" style=3D"left: 0px; width: 21px;">8</div></div><pre class=3D" Co=
-deMirror-line " role=3D"presentation"><span role=3D"presentation" style=3D"=
-padding-right: 0.1px;"><span cm-text=3D"">=E2=80=8B</span></span></pre></di=
-v><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrappe=
-r" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gu=
-tter-elt" style=3D"left: 0px; width: 21px;">9</div></div><pre class=3D" Cod=
-eMirror-line " role=3D"presentation"><span role=3D"presentation" style=3D"p=
-adding-right: 0.1px;"><span class=3D"cm-variable-2">1. EIU Democracy Index:=
-</span></span></pre></div><div style=3D"position: relative;"><div class=3D"=
-CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-=
-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">10</div=
+ing-right: 0.1px;">The dataset contains data from the following GapMinder d=
+atasets:</span></pre></div><div style=3D"position: relative;"><div class=3D=
+"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror=
+-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">8</div=
 ></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D=
 "presentation" style=3D"padding-right: 0.1px;"><span cm-text=3D"">=E2=80=8B=
 </span></span></pre></div><div style=3D"position: relative;"><div class=3D"=
 CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-=
-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">11</div=
-></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D=
-"presentation" style=3D"padding-right: 0.1px;">"This democracy index is usi=
-ng the data from the Economist Inteligence Unit to express the quality of d=
-emocracies as a number between 0 and 100. It's based on 60 different aspect=
-s of societies that are relevant to democracy universal suffrage for all ad=
-ults, voter participation, perception of human rights protection and freedo=
-m to form organizations and parties.</span></pre></div><div style=3D"positi=
-on: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34p=
-x;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"lef=
-t: 0px; width: 21px;">12</div></div><pre class=3D" CodeMirror-line " role=
-=3D"presentation"><span role=3D"presentation" style=3D"padding-right: 0.1px=
-;">The democracy index is calculated from the 60 indicators, divided into f=
-ive ""sub indexes"", which are:</span></pre></div><div style=3D"position: r=
+linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">9</div>=
+</div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"=
+presentation" style=3D"padding-right: 0.1px;"><span class=3D"cm-variable-2"=
+>1. EIU Democracy Index:</span></span></pre></div><div style=3D"position: r=
 elative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><=
 div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0p=
-x; width: 21px;">13</div></div><pre class=3D" CodeMirror-line " role=3D"pre=
+x; width: 21px;">10</div></div><pre class=3D" CodeMirror-line " role=3D"pre=
 sentation"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><spa=
 n cm-text=3D"">=E2=80=8B</span></span></pre></div><div style=3D"position: r=
 elative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><=
 div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0p=
-x; width: 21px;">14</div></div><pre class=3D" CodeMirror-line " role=3D"pre=
-sentation"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><spa=
-n class=3D"cm-variable-2">1. Electoral pluralism index;</span></span></pre>=
-</div><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wr=
-apper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirro=
-r-gutter-elt" style=3D"left: 0px; width: 21px;">15</div></div><pre class=3D=
-" CodeMirror-line " role=3D"presentation"><span role=3D"presentation" style=
-=3D"padding-right: 0.1px;"><span class=3D"cm-variable-2">2. Government inde=
-x;</span></span></pre></div><div style=3D"position: relative;"><div class=
+x; width: 21px;">11</div></div><pre class=3D" CodeMirror-line " role=3D"pre=
+sentation"><span role=3D"presentation" style=3D"padding-right: 0.1px;">"Thi=
+s democracy index is using the data from the Economist Inteligence Unit to =
+express the quality of democracies as a number between 0 and 100. It's base=
+d on 60 different aspects of societies that are relevant to democracy unive=
+rsal suffrage for all adults, voter participation, perception of human righ=
+ts protection and freedom to form organizations and parties.</span></pre></=
+div><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrap=
+per" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-=
+gutter-elt" style=3D"left: 0px; width: 21px;">12</div></div><pre class=3D" =
+CodeMirror-line " role=3D"presentation"><span role=3D"presentation" style=
+=3D"padding-right: 0.1px;">The democracy index is calculated from the 60 in=
+dicators, divided into five ""sub indexes"", which are:</span></pre></div><=
+div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" =
+style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutte=
+r-elt" style=3D"left: 0px; width: 21px;">13</div></div><pre class=3D" CodeM=
+irror-line " role=3D"presentation"><span role=3D"presentation" style=3D"pad=
+ding-right: 0.1px;"><span cm-text=3D"">=E2=80=8B</span></span></pre></div><=
+div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" =
+style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutte=
+r-elt" style=3D"left: 0px; width: 21px;">14</div></div><pre class=3D" CodeM=
+irror-line " role=3D"presentation"><span role=3D"presentation" style=3D"pad=
+ding-right: 0.1px;"><span class=3D"cm-variable-2">1. Electoral pluralism in=
+dex;</span></span></pre></div><div style=3D"position: relative;"><div class=
 =3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMir=
-ror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">16<=
+ror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">15<=
 /div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span rol=
 e=3D"presentation" style=3D"padding-right: 0.1px;"><span class=3D"cm-variab=
-le-2">3. Political participation indexm;</span></span></pre></div><div styl=
-e=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D=
-"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" s=
-tyle=3D"left: 0px; width: 21px;">17</div></div><pre class=3D" CodeMirror-li=
-ne " role=3D"presentation"><span role=3D"presentation" style=3D"padding-rig=
-ht: 0.1px;"><span class=3D"cm-variable-2">4. Political culture index;</span=
-></span></pre></div><div style=3D"position: relative;"><div class=3D"CodeMi=
-rror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenu=
-mber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">18</div></div=
-><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"prese=
-ntation" style=3D"padding-right: 0.1px;"><span class=3D"cm-variable-2">5. C=
-ivil liberty index.</span></span></pre></div><div style=3D"position: relati=
-ve;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div c=
-lass=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; wi=
-dth: 21px;">19</div></div><pre class=3D" CodeMirror-line " role=3D"presenta=
-tion"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><span cm-=
-text=3D"">=E2=80=8B</span></span></pre></div><div style=3D"position: relati=
-ve;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div c=
-lass=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; wi=
-dth: 21px;">20</div></div><pre class=3D" CodeMirror-line " role=3D"presenta=
-tion"><span role=3D"presentation" style=3D"padding-right: 0.1px;">The sub-i=
-ndexes are based on the sum of scores on roughly 12 indicators per sub-inde=
-x, converted into a score between 0 and 100.</span></pre></div><div style=
+le-2">2. Government index;</span></span></pre></div><div style=3D"position:=
+ relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"=
+><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: =
+0px; width: 21px;">16</div></div><pre class=3D" CodeMirror-line " role=3D"p=
+resentation"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><s=
+pan class=3D"cm-variable-2">3. Political participation indexm;</span></span=
+></pre></div><div style=3D"position: relative;"><div class=3D"CodeMirror-gu=
+tter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber Co=
+deMirror-gutter-elt" style=3D"left: 0px; width: 21px;">17</div></div><pre c=
+lass=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presentation=
+" style=3D"padding-right: 0.1px;"><span class=3D"cm-variable-2">4. Politica=
+l culture index;</span></span></pre></div><div style=3D"position: relative;=
+"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div clas=
+s=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width=
+: 21px;">18</div></div><pre class=3D" CodeMirror-line " role=3D"presentatio=
+n"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><span class=
+=3D"cm-variable-2">5. Civil liberty index.</span></span></pre></div><div st=
+yle=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=
+=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt=
+" style=3D"left: 0px; width: 21px;">19</div></div><pre class=3D" CodeMirror=
+-line " role=3D"presentation"><span role=3D"presentation" style=3D"padding-=
+right: 0.1px;"><span cm-text=3D"">=E2=80=8B</span></span></pre></div><div s=
+tyle=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=
+=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt=
+" style=3D"left: 0px; width: 21px;">20</div></div><pre class=3D" CodeMirror=
+-line " role=3D"presentation"><span role=3D"presentation" style=3D"padding-=
+right: 0.1px;">The sub-indexes are based on the sum of scores on roughly 12=
+ indicators per sub-index, converted into a score between 0 and 100.</span>=
+</pre></div><div style=3D"position: relative;"><div class=3D"CodeMirror-gut=
+ter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber Cod=
+eMirror-gutter-elt" style=3D"left: 0px; width: 21px;">21</div></div><pre cl=
+ass=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presentation"=
+ style=3D"padding-right: 0.1px;">(The Economist publishes the index with a =
+scale from 0 to 10, but Gapminder has converted it to 0 to 100 to make it e=
+asier to communicate as a percentage.)"</span></pre></div><div style=3D"pos=
+ition: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -=
+34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"=
+left: 0px; width: 21px;">22</div></div><pre class=3D" CodeMirror-line " rol=
+e=3D"presentation"><span role=3D"presentation" style=3D"padding-right: 0.1p=
+x;"><span class=3D"cm-link">https://docs.google.com/spreadsheets/d/1d0noZrw=
+AWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE/edit#gid=3D935776888</span></span></pr=
+e></div><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-=
+wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMir=
+ror-gutter-elt" style=3D"left: 0px; width: 21px;">23</div></div><pre class=
+=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presentation" st=
+yle=3D"padding-right: 0.1px;"><span cm-text=3D"">=E2=80=8B</span></span></p=
+re></div><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter=
+-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMi=
+rror-gutter-elt" style=3D"left: 0px; width: 21px;">24</div></div><pre class=
+=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presentation" st=
+yle=3D"padding-right: 0.1px;"><span cm-text=3D"">=E2=80=8B</span></span></p=
+re></div><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter=
+-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMi=
+rror-gutter-elt" style=3D"left: 0px; width: 21px;">25</div></div><pre class=
+=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presentation" st=
+yle=3D"padding-right: 0.1px;"><span class=3D"cm-variable-2">2. Income: GDP =
+per capita, constant PPP dollars:</span></span></pre></div><div style=3D"po=
+sition: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: =
+-34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D=
+"left: 0px; width: 21px;">26</div></div><pre class=3D" CodeMirror-line " ro=
+le=3D"presentation"><span role=3D"presentation" style=3D"padding-right: 0.1=
+px;">GDP per capita measures the value of everything produced in a country =
+during a year, divided by the number of people. The unit is in internationa=
+l dollars, fixed 2011 prices. The data is adjusted for inflation and differ=
+ences in the cost of living between countries, so-called PPP dollars. The e=
+nd of the time series, between 1990 and 2016, uses the latest GDP per capit=
+a data from the World Bank, from their World Development Indicators. To go =
+back in time before the World Bank series starts in 1990, we have used seve=
+ral sources, such as Angus Maddison. </span></pre></div><div style=3D"posit=
+ion: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34=
+px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"le=
+ft: 0px; width: 21px;">27</div></div><pre class=3D" CodeMirror-line " role=
+=3D"presentation"><span role=3D"presentation" style=3D"padding-right: 0.1px=
+;"><span class=3D"cm-link">https://www.gapminder.org/data/documentation/gd0=
+01/</span></span></pre></div><div style=3D"position: relative;"><div class=
+=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMir=
+ror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">28<=
+/div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span rol=
+e=3D"presentation" style=3D"padding-right: 0.1px;"><span cm-text=3D"">=E2=
+=80=8B</span></span></pre></div><div style=3D"position: relative;"><div cla=
+ss=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeM=
+irror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">2=
+9</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span r=
+ole=3D"presentation" style=3D"padding-right: 0.1px;"><span cm-text=3D"">=E2=
+=80=8B</span></span></pre></div><div style=3D"position: relative;"><div cla=
+ss=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeM=
+irror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">3=
+0</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span r=
+ole=3D"presentation" style=3D"padding-right: 0.1px;"><span class=3D"cm-vari=
+able-2">3. Investments (% of GDP)</span></span></pre></div><div style=3D"po=
+sition: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: =
+-34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D=
+"left: 0px; width: 21px;">31</div></div><pre class=3D" CodeMirror-line " ro=
+le=3D"presentation"><span role=3D"presentation" style=3D"padding-right: 0.1=
+px;">Capital formation is a term used to describe the net capital accumulat=
+ion during an accounting period for a particular country. The term refers t=
+o additions of capital goods, such as equipment, tools, transportation asse=
+ts, and electricity. Countries need capital goods to replace the older ones=
+ that are used to produce goods and services. If a country cannot replace c=
+apital goods as they reach the end of their useful lives, production declin=
+es. Generally, the higher the capital formation of an economy, the faster a=
+n economy can grow its aggregate income.</span></pre></div><div style=3D"po=
+sition: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: =
+-34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D=
+"left: 0px; width: 21px;">32</div></div><pre class=3D" CodeMirror-line " ro=
+le=3D"presentation"><span role=3D"presentation" style=3D"padding-right: 0.1=
+px;"><span cm-text=3D"">=E2=80=8B</span></span></pre></div><div style=3D"po=
+sition: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: =
+-34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D=
+"left: 0px; width: 21px;">33</div></div><pre class=3D" CodeMirror-line " ro=
+le=3D"presentation"><span role=3D"presentation" style=3D"padding-right: 0.1=
+px;"><span cm-text=3D"">=E2=80=8B</span></span></pre></div><div style=3D"po=
+sition: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: =
+-34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D=
+"left: 0px; width: 21px;">34</div></div><pre class=3D" CodeMirror-line " ro=
+le=3D"presentation"><span role=3D"presentation" style=3D"padding-right: 0.1=
+px;"><span class=3D"cm-variable-2">4. Tax revenue (% of GDP)</span></span><=
+/pre></div><div style=3D"position: relative;"><div class=3D"CodeMirror-gutt=
+er-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber Code=
+Mirror-gutter-elt" style=3D"left: 0px; width: 21px;">35</div></div><pre cla=
+ss=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presentation" =
+style=3D"padding-right: 0.1px;">refers to compulsory transfers to the centr=
+al governement for public purposes.  Does not include social security.</spa=
+n></pre></div><div style=3D"position: relative;"><div class=3D"CodeMirror-g=
+utter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber C=
+odeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">36</div></div><pre =
+class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presentatio=
+n" style=3D"padding-right: 0.1px;"><span class=3D"cm-link">https://data.wor=
+ldbank.org/indicator/GC.TAX.TOTL.GD.ZS</span></span></pre></div><div style=
 =3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"=
 left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" st=
-yle=3D"left: 0px; width: 21px;">21</div></div><pre class=3D" CodeMirror-lin=
+yle=3D"left: 0px; width: 21px;">37</div></div><pre class=3D" CodeMirror-lin=
 e " role=3D"presentation"><span role=3D"presentation" style=3D"padding-righ=
-t: 0.1px;">(The Economist publishes the index with a scale from 0 to 10, bu=
-t Gapminder has converted it to 0 to 100 to make it easier to communicate a=
-s a percentage.)"</span></pre></div><div style=3D"position: relative;"><div=
- class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"C=
-odeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px=
-;">22</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><sp=
-an role=3D"presentation" style=3D"padding-right: 0.1px;"><span class=3D"cm-=
-link">https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4=
-R6fgDhRaUZbDzE/edit#gid=3D935776888</span></span></pre></div><div style=3D"=
-position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left=
-: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=
-=3D"left: 0px; width: 21px;">23</div></div><pre class=3D" CodeMirror-line "=
- role=3D"presentation"><span role=3D"presentation" style=3D"padding-right: =
-0.1px;"><span cm-text=3D"">=E2=80=8B</span></span></pre></div><div style=3D=
-"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"lef=
-t: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=
-=3D"left: 0px; width: 21px;">24</div></div><pre class=3D" CodeMirror-line "=
- role=3D"presentation"><span role=3D"presentation" style=3D"padding-right: =
-0.1px;"><span cm-text=3D"">=E2=80=8B</span></span></pre></div><div style=3D=
-"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"lef=
-t: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=
-=3D"left: 0px; width: 21px;">25</div></div><pre class=3D" CodeMirror-line "=
- role=3D"presentation"><span role=3D"presentation" style=3D"padding-right: =
-0.1px;"><span class=3D"cm-variable-2">2. Income: GDP per capita, constant P=
-PP dollars:</span></span></pre></div><div style=3D"position: relative;"><di=
-v class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"=
-CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21p=
-x;">26</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><s=
-pan role=3D"presentation" style=3D"padding-right: 0.1px;">GDP per capita me=
-asures the value of everything produced in a country during a year, divided=
- by the number of people. The unit is in international dollars, fixed 2011 =
-prices. The data is adjusted for inflation and differences in the cost of l=
-iving between countries, so-called PPP dollars. The end of the time series,=
- between 1990 and 2016, uses the latest GDP per capita data from the World =
-Bank, from their World Development Indicators. To go back in time before th=
-e World Bank series starts in 1990, we have used several sources, such as A=
-ngus Maddison. </span></pre></div><div style=3D"position: relative;"><div c=
-lass=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"Cod=
-eMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;"=
->27</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span=
- role=3D"presentation" style=3D"padding-right: 0.1px;"><span class=3D"cm-li=
-nk">https://www.gapminder.org/data/documentation/gd001/</span></span></pre>=
-</div><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wr=
-apper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirro=
-r-gutter-elt" style=3D"left: 0px; width: 21px;">28</div></div><pre class=3D=
-" CodeMirror-line " role=3D"presentation"><span role=3D"presentation" style=
-=3D"padding-right: 0.1px;"><span cm-text=3D"">=E2=80=8B</span></span></pre>=
-</div><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wr=
-apper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirro=
-r-gutter-elt" style=3D"left: 0px; width: 21px;">29</div></div><pre class=3D=
-" CodeMirror-line " role=3D"presentation"><span role=3D"presentation" style=
-=3D"padding-right: 0.1px;"><span cm-text=3D"">=E2=80=8B</span></span></pre>=
-</div><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wr=
-apper" style=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirro=
-r-gutter-elt" style=3D"left: 0px; width: 21px;">30</div></div><pre class=3D=
-" CodeMirror-line " role=3D"presentation"><span role=3D"presentation" style=
-=3D"padding-right: 0.1px;"><span class=3D"cm-variable-2">3. Investments (% =
-of GDP)</span></span></pre></div><div style=3D"position: relative;"><div cl=
-ass=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"Code=
-Mirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">=
-31</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span =
-role=3D"presentation" style=3D"padding-right: 0.1px;">Capital formation is =
-a term used to describe the net capital accumulation during an accounting p=
-eriod for a particular country. The term refers to additions of capital goo=
-ds, such as equipment, tools, transportation assets, and electricity. Count=
-ries need capital goods to replace the older ones that are used to produce =
-goods and services. If a country cannot replace capital goods as they reach=
- the end of their useful lives, production declines. Generally, the higher =
-the capital formation of an economy, the faster an economy can grow its agg=
-regate income.</span></pre></div><div style=3D"position: relative;"><div cl=
-ass=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"Code=
-Mirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">=
-32</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span =
-role=3D"presentation" style=3D"padding-right: 0.1px;"><span cm-text=3D"">=
-=E2=80=8B</span></span></pre></div><div style=3D"position: relative;"><div =
-class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"Co=
-deMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;=
-">33</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><spa=
-n role=3D"presentation" style=3D"padding-right: 0.1px;"><span cm-text=3D"">=
-=E2=80=8B</span></span></pre></div><div style=3D"position: relative;"><div =
-class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"Co=
-deMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;=
-">34</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><spa=
-n role=3D"presentation" style=3D"padding-right: 0.1px;"><span class=3D"cm-v=
-ariable-2">4. Tax revenue (% of GDP)</span></span></pre></div><div style=3D=
-"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"lef=
-t: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=
-=3D"left: 0px; width: 21px;">35</div></div><pre class=3D" CodeMirror-line "=
- role=3D"presentation"><span role=3D"presentation" style=3D"padding-right: =
-0.1px;">refers to compulsory transfers to the central governement for publi=
-c purposes.  Does not include social security.</span></pre></div><div style=
-=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"=
-left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" st=
-yle=3D"left: 0px; width: 21px;">36</div></div><pre class=3D" CodeMirror-lin=
-e " role=3D"presentation"><span role=3D"presentation" style=3D"padding-righ=
-t: 0.1px;"><span class=3D"cm-link">https://data.worldbank.org/indicator/GC.=
-TAX.TOTL.GD.ZS</span></span></pre></div><div style=3D"position: relative;">=
-<div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=
-=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width:=
- 21px;">37</div></div><pre class=3D" CodeMirror-line " role=3D"presentation=
-"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><span cm-text=
-=3D"">=E2=80=8B</span></span></pre></div></div></div></div></div></div><div=
- style=3D"position: absolute; height: 30px; width: 1px; border-bottom: 0px =
-solid transparent; top: 934px;"></div><div class=3D"CodeMirror-gutters" sty=
-le=3D"left: 0px; height: 964px;"><div class=3D"CodeMirror-gutter CodeMirror=
--linenumbers" style=3D"width: 33px;"></div></div></div></div></div><div cla=
-ss=3D"text_cell_render rendered_html" tabindex=3D"-1"><p><a id=3D"wrangling=
-"></a></p>
+t: 0.1px;"><span cm-text=3D"">=E2=80=8B</span></span></pre></div></div></di=
+v></div></div></div><div style=3D"position: absolute; height: 30px; width: =
+1px; border-bottom: 0px solid transparent; top: 934px;"></div><div class=3D=
+"CodeMirror-gutters" style=3D"left: 0px; height: 964px;"><div class=3D"Code=
+Mirror-gutter CodeMirror-linenumbers" style=3D"width: 33px;"></div></div></=
+div></div></div><div class=3D"text_cell_render rendered_html" tabindex=3D"-=
+1"><p><a id=3D"wrangling"></a></p>
 <h2 id=3D"Data-Wrangling">Data Wrangling<a class=3D"anchor-link" href=3D"ht=
 tp://localhost:8888/notebooks/Documents/data_analytics/intro/final_project/=
 investigate-a-dataset-gapminder.ipynb#Data-Wrangling">=C2=B6</a></h2>
@@ -1681,40 +1646,78 @@ ight: 18px; pointer-events: none;"><div style=3D"height: 100%; min-height: =
 content=3D"true"></div><div class=3D"CodeMirror-scroll" tabindex=3D"-1"><di=
 v class=3D"CodeMirror-sizer" style=3D"margin-left: 34px; padding-right: 0px=
 ; padding-bottom: 0px; margin-bottom: 0px; border-right-width: 30px; min-he=
-ight: 63px;"><div style=3D"position: relative; top: 0px;"><div class=3D"Cod=
-eMirror-lines" role=3D"presentation"><div role=3D"presentation" style=3D"po=
-sition: relative; outline: none;"><div class=3D"CodeMirror-measure"><div cl=
-ass=3D"CodeMirror-linenumber CodeMirror-gutter-elt"><div>3</div></div></div=
-><div class=3D"CodeMirror-measure"></div><div style=3D"position: relative; =
-z-index: 1;"></div><div class=3D"CodeMirror-cursors"><div class=3D"CodeMirr=
-or-cursor" style=3D"left: 5.59375px; top: 0px; height: 18px;">&nbsp;</div><=
-/div><div class=3D"CodeMirror-code" role=3D"presentation"><div style=3D"pos=
-ition: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -=
-34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"=
-left: 0px; width: 21px;">1</div></div><pre class=3D" CodeMirror-line " role=
-=3D"presentation"><span role=3D"presentation" style=3D"padding-right: 0.1px=
-;"><span class=3D"cm-header cm-header-4">#### Tax Revenue as a Percent of G=
-DP</span></span></pre></div><div style=3D"position: relative;"><div class=
-=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMir=
-ror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">2</=
-div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=
-=3D"presentation" style=3D"padding-right: 0.1px;"><span cm-text=3D"">=E2=80=
-=8B</span></span></pre></div><div style=3D"position: relative;"><div class=
-=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMir=
-ror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">3</=
-div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=
-=3D"presentation" style=3D"padding-right: 0.1px;">Below are results of an i=
-nitial analysis:</span></pre></div></div></div></div></div></div><div style=
-=3D"position: absolute; height: 30px; width: 1px; border-bottom: 0px solid =
-transparent; top: 63px;"></div><div class=3D"CodeMirror-gutters" style=3D"l=
-eft: 0px; height: 93px;"><div class=3D"CodeMirror-gutter CodeMirror-linenum=
-bers" style=3D"width: 33px;"></div></div></div></div></div><div class=3D"te=
-xt_cell_render rendered_html" tabindex=3D"-1"><h4 id=3D"Tax-Revenue-as-a-Pe=
-rcent-of-GDP">Tax Revenue as a Percent of GDP<a class=3D"anchor-link" href=
-=3D"http://localhost:8888/notebooks/Documents/data_analytics/intro/final_pr=
-oject/investigate-a-dataset-gapminder.ipynb#Tax-Revenue-as-a-Percent-of-GDP=
-">=C2=B6</a></h4>
+ight: 165px;"><div style=3D"position: relative; top: 0px;"><div class=3D"Co=
+deMirror-lines" role=3D"presentation"><div role=3D"presentation" style=3D"p=
+osition: relative; outline: none;"><div class=3D"CodeMirror-measure"><div c=
+lass=3D"CodeMirror-linenumber CodeMirror-gutter-elt"><div>9</div></div></di=
+v><div class=3D"CodeMirror-measure"></div><div style=3D"position: relative;=
+ z-index: 1;"></div><div class=3D"CodeMirror-cursors"><div class=3D"CodeMir=
+ror-cursor" style=3D"left: 5.59375px; top: 0px; height: 18px;">&nbsp;</div>=
+</div><div class=3D"CodeMirror-code" role=3D"presentation" style=3D""><div =
+style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" styl=
+e=3D"left: -34px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-el=
+t" style=3D"left: 0px; width: 21px;">1</div></div><pre class=3D" CodeMirror=
+-line " role=3D"presentation"><span role=3D"presentation" style=3D"padding-=
+right: 0.1px;"><span class=3D"cm-header cm-header-4">#### Tax Revenue as a =
+Percent of GDP</span></span></pre></div><div style=3D"position: relative;">=
+<div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=
+=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width:=
+ 21px;">2</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"=
+><span role=3D"presentation" style=3D"padding-right: 0.1px;"><span cm-text=
+=3D"">=E2=80=8B</span></span></pre></div><div style=3D"position: relative;"=
+><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=
+=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width:=
+ 21px;">3</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"=
+><span role=3D"presentation" style=3D"padding-right: 0.1px;">Below are resu=
+lts of an initial analysis:</span></pre></div><div style=3D"position: relat=
+ive;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div =
+class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; w=
+idth: 21px;">4</div></div><pre class=3D" CodeMirror-line " role=3D"presenta=
+tion"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><span cm-=
+text=3D"">=E2=80=8B</span></span></pre></div><div style=3D"position: relati=
+ve;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div c=
+lass=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; wi=
+dth: 21px;">5</div></div><pre class=3D" CodeMirror-line " role=3D"presentat=
+ion"><span role=3D"presentation" style=3D"padding-right: 0.1px;">The csv fi=
+les for this analysis were downloaded from the GapMinder website. They can =
+be found here:</span></pre></div><div style=3D"position: relative;"><div cl=
+ass=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"Code=
+Mirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">=
+6</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span r=
+ole=3D"presentation" style=3D"padding-right: 0.1px;"><span cm-text=3D"">=E2=
+=80=8B</span></span></pre></div><div style=3D"position: relative;"><div cla=
+ss=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeM=
+irror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">7=
+</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span ro=
+le=3D"presentation" style=3D"padding-right: 0.1px;"><span class=3D"cm-link"=
+>https://github.com/psterk1/data_analytics/tree/master/intro/final_project<=
+/span></span></pre></div><div style=3D"position: relative;"><div class=3D"C=
+odeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-l=
+inenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">8</div><=
+/div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"p=
+resentation" style=3D"padding-right: 0.1px;"><span cm-text=3D"">=E2=80=8B</=
+span></span></pre></div><div style=3D"position: relative;"><div class=3D"Co=
+deMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMirror-li=
+nenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">9</div></=
+div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"pr=
+esentation" style=3D"padding-right: 0.1px;">The first file is 'tax_revenue_=
+percent_of_gdp.csv'</span></pre></div></div></div></div></div></div><div st=
+yle=3D"position: absolute; height: 30px; width: 1px; border-bottom: 0px sol=
+id transparent; top: 165px;"></div><div class=3D"CodeMirror-gutters" style=
+=3D"left: 0px; height: 195px;"><div class=3D"CodeMirror-gutter CodeMirror-l=
+inenumbers" style=3D"width: 33px;"></div></div></div></div></div><div class=
+=3D"text_cell_render rendered_html" tabindex=3D"-1"><h4 id=3D"Tax-Revenue-a=
+s-a-Percent-of-GDP">Tax Revenue as a Percent of GDP<a class=3D"anchor-link"=
+ href=3D"http://localhost:8888/notebooks/Documents/data_analytics/intro/fin=
+al_project/investigate-a-dataset-gapminder.ipynb#Tax-Revenue-as-a-Percent-o=
+f-GDP">=C2=B6</a></h4>
 <p>Below are results of an initial analysis:</p>
+<p>The csv files for this analysis were downloaded from the GapMinder websi=
+te. They can be found here:</p>
+<p><a href=3D"https://github.com/psterk1/data_analytics/tree/master/intro/f=
+inal_project" target=3D"_blank">https://github.com/psterk1/data_analytics/t=
+ree/master/intro/final_project</a></p>
+<p>The first file is 'tax_revenue_percent_of_gdp.csv'</p>
 </div></div></div><div class=3D"cell code_cell unselected rendered" tabinde=
 x=3D"2"><div class=3D"input"><div class=3D"prompt_container"><div class=3D"=
 prompt input_prompt"><bdi>In</bdi>&nbsp;[371]:</div><div class=3D"run_this_=
@@ -6091,29 +6094,29 @@ rollbar" cm-not-content=3D"true" style=3D"width: 18px; pointer-events: none=
 ;"><div style=3D"min-width: 1px; height: 0px;"></div></div><div class=3D"Co=
 deMirror-hscrollbar" cm-not-content=3D"true" style=3D"height: 18px; pointer=
 -events: none; display: block; right: 0px; left: 34px;"><div style=3D"heigh=
-t: 100%; min-height: 1px; width: 962.969px;"></div></div><div class=3D"Code=
-Mirror-scrollbar-filler" cm-not-content=3D"true"></div><div class=3D"CodeMi=
-rror-gutter-filler" cm-not-content=3D"true"></div><div class=3D"CodeMirror-=
-scroll" tabindex=3D"-1"><div class=3D"CodeMirror-sizer" style=3D"margin-lef=
-t: 34px; min-width: 962.969px; margin-bottom: 0px; border-right-width: 30px=
-; min-height: 45px; padding-right: 0px; padding-bottom: 0px;"><div style=3D=
-"position: relative; top: 0px;"><div class=3D"CodeMirror-lines" role=3D"pre=
-sentation"><div role=3D"presentation" style=3D"position: relative; outline:=
- none;"><div class=3D"CodeMirror-measure"><div class=3D"CodeMirror-linenumb=
-er CodeMirror-gutter-elt"><div>1</div></div></div><div class=3D"CodeMirror-=
-measure"></div><div style=3D"position: relative; z-index: 1;"></div><div cl=
-ass=3D"CodeMirror-cursors"><div class=3D"CodeMirror-cursor" style=3D"left: =
-5.59375px; top: 0px; height: 17px;">&nbsp;</div></div><div class=3D"CodeMir=
-ror-code" role=3D"presentation"><div style=3D"position: relative;"><div cla=
-ss=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeM=
-irror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">1=
-</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span ro=
-le=3D"presentation" style=3D"padding-right: 0.1px;"><span class=3D"cm-varia=
-ble">income_last_10</span> <span class=3D"cm-operator">=3D</span> <span cla=
-ss=3D"cm-variable">income_last_10</span>.<span class=3D"cm-property">melt</=
-span>(<span class=3D"cm-variable">id_vars</span><span class=3D"cm-operator"=
->=3D</span>[<span class=3D"cm-string">'country'</span>], <span class=3D"cm-=
-variable">var_name</span><span class=3D"cm-operator">=3D</span><span class=
+t: 100%; min-height: 1px; width: 963px;"></div></div><div class=3D"CodeMirr=
+or-scrollbar-filler" cm-not-content=3D"true"></div><div class=3D"CodeMirror=
+-gutter-filler" cm-not-content=3D"true"></div><div class=3D"CodeMirror-scro=
+ll" tabindex=3D"-1"><div class=3D"CodeMirror-sizer" style=3D"margin-left: 3=
+4px; min-width: 962.969px; margin-bottom: 0px; border-right-width: 30px; mi=
+n-height: 45px; padding-right: 0px; padding-bottom: 0px;"><div style=3D"pos=
+ition: relative; top: 0px;"><div class=3D"CodeMirror-lines" role=3D"present=
+ation"><div role=3D"presentation" style=3D"position: relative; outline: non=
+e;"><div class=3D"CodeMirror-measure"><div class=3D"CodeMirror-linenumber C=
+odeMirror-gutter-elt"><div>1</div></div></div><div class=3D"CodeMirror-meas=
+ure"></div><div style=3D"position: relative; z-index: 1;"></div><div class=
+=3D"CodeMirror-cursors"><div class=3D"CodeMirror-cursor" style=3D"left: 5.5=
+9375px; top: 0px; height: 17px;">&nbsp;</div></div><div class=3D"CodeMirror=
+-code" role=3D"presentation"><div style=3D"position: relative;"><div class=
+=3D"CodeMirror-gutter-wrapper" style=3D"left: -34px;"><div class=3D"CodeMir=
+ror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">1</=
+div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=
+=3D"presentation" style=3D"padding-right: 0.1px;"><span class=3D"cm-variabl=
+e">income_last_10</span> <span class=3D"cm-operator">=3D</span> <span class=
+=3D"cm-variable">income_last_10</span>.<span class=3D"cm-property">melt</sp=
+an>(<span class=3D"cm-variable">id_vars</span><span class=3D"cm-operator">=
+=3D</span>[<span class=3D"cm-string">'country'</span>], <span class=3D"cm-v=
+ariable">var_name</span><span class=3D"cm-operator">=3D</span><span class=
 =3D"cm-string">'year'</span>, <span class=3D"cm-variable">value_name</span>=
 <span class=3D"cm-operator">=3D</span><span class=3D"cm-string">'income_per=
 _person'</span>)</span></pre></div><div style=3D"position: relative;"><div =
@@ -15176,10 +15179,10 @@ px; white-space: nowrap; text-align: left; text-indent: 0px; text-transform=
 : none; line-height: normal; letter-spacing: normal; word-spacing: normal; =
 font-size: 40px; font-weight: normal; font-style: normal;"></div></div></bo=
 dy></html>
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-2a4206f8-9ea6-460a-bc30-7c2b653c6629@mhtml.blink
+Content-Location: cid:css-7775217b-0548-4ddc-9f50-4ad2434bce81@mhtml.blink
 
 @charset "utf-8";
 
@@ -15201,10 +15204,10 @@ ght: 0; padding: 4px; }
 
 .MathJax_Hover_Arrow:hover span { background-color: rgb(204, 204, 204) !imp=
 ortant; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-e6b3651d-df23-4161-8acd-774cd909dcec@mhtml.blink
+Content-Location: cid:css-fa21731d-c54d-4cb6-aaad-09401864423c@mhtml.blink
 
 @charset "utf-8";
 
@@ -15277,18 +15280,18 @@ y: "Courier New", Courier; font-size: 24px; color: rgb(240, 240, 240); }
 tant; }
 
 .MathJax_MenuClose:hover:focus { outline: none; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-99735dc8-1100-4a5a-96f1-00d05d628eb0@mhtml.blink
+Content-Location: cid:css-e6190839-3356-49ce-b8f2-3e55e8bf0662@mhtml.blink
 
 @charset "utf-8";
 
 .MathJax_Preview .MJXf-math { color: inherit !important; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-e074ed31-4919-482f-ad7b-f25e5a8bab2e@mhtml.blink
+Content-Location: cid:css-dc65f74b-bb42-4957-881c-95f0411c3f6c@mhtml.blink
 
 @charset "utf-8";
 
@@ -15298,10 +15301,10 @@ mportant; border: 0px !important; height: 1px !important; width: 1px !impor=
 tant; overflow: hidden !important; display: block !important; }
 
 .MJX_Assistive_MathML.MJX_Assistive_MathML_Block { width: 100% !important; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-9b129722-1a9c-4cb3-aad2-f7616713b634@mhtml.blink
+Content-Location: cid:css-e42273d7-b64f-4ec6-ae03-bda89393118e@mhtml.blink
 
 @charset "utf-8";
 
@@ -15323,10 +15326,10 @@ lid black; margin: 0px; font-weight: normal; font-style: normal; text-align=
 #MathJax_ZoomEventTrap { position: absolute; left: 0px; top: 0px; z-index: =
 302; display: inline-block; border: 0px; padding: 0px; margin: 0px; backgro=
 und-color: white; opacity: 0; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-d45ac23e-cc67-4dfe-b4f9-4d1a044e446a@mhtml.blink
+Content-Location: cid:css-7f536a63-d5f3-4de4-960d-5e3c80d2d89e@mhtml.blink
 
 @charset "utf-8";
 
@@ -15341,10 +15344,10 @@ lor: rgb(230, 230, 230); border: 1px solid rgb(149, 149, 149); margin: 0px;=
 z-index: 101; border: 0px; margin: 0px; padding: 0px; }
 
 .MathJax_Error { color: rgb(204, 0, 0); font-style: italic; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-73cf73e7-52d2-44e9-8675-6136134fd6b1@mhtml.blink
+Content-Location: cid:css-f72e1837-4207-4823-b4a2-45c7736de8d9@mhtml.blink
 
 @charset "utf-8";
 
@@ -15427,10 +15430,10 @@ r.otf"); }
 @font-face { font-family: MathJax_Fraktur-WEB; font-weight: bold; src: url(=
 "http://localhost:8888/static/components/MathJax/fonts/HTML-CSS/TeX/otf/Mat=
 hJax_Fraktur-Bold.otf"); }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-db287821-425b-4390-a044-bda22e6c3b0c@mhtml.blink
+Content-Location: cid:css-b5bbf80a-9f1a-404e-8c32-233ea12626b9@mhtml.blink
 
 @charset "utf-8";
 
@@ -15554,20 +15557,10 @@ nt-size: 90%; }
 
 .MathJax_PHTML .noError { font-size: 90%; text-align: left; color: black; p=
 adding: 1px 3px; border: 1px solid; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-c2423cf7-b143-4952-8cbb-2d8372405f95@mhtml.blink
-
-@charset "utf-8";
-
-.jupyter-widgets-output-area div.output_subarea { max-width: 100%; }
-
-.jupyter-widgets-output-area > .out_prompt_overlay { display: none; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
-Content-Type: text/css
-Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-c69c7ce0-bf10-4e29-984f-35a477826b2a@mhtml.blink
+Content-Location: cid:css-559638f7-ac74-4087-89ee-6ff33ff7d65a@mhtml.blink
 
 @charset "utf-8";
 
@@ -15662,10 +15655,20 @@ ent; }
 
 .MathJax .noError { font-size: 90%; text-align: left; color: black; padding=
 : 1px 3px; border: 1px solid; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-81dfb72a-3d13-4288-bd03-83f31ffd541c@mhtml.blink
+Content-Location: cid:css-74b6ac0c-d52d-458e-aeed-15f6c5c74745@mhtml.blink
+
+@charset "utf-8";
+
+.jupyter-widgets-output-area div.output_subarea { max-width: 100%; }
+
+.jupyter-widgets-output-area > .out_prompt_overlay { display: none; }
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-14536269-5c4f-40c6-ac5b-f3f2d24edc5f@mhtml.blink
 
 @charset "utf-8";
 
@@ -15673,10 +15676,10 @@ Content-Location: cid:css-81dfb72a-3d13-4288-bd03-83f31ffd541c@mhtml.blink
 ursor: default; }
 
 .p-Widget.p-mod-hidden { display: none !important; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-7bb91961-43e4-4771-ad21-efd69780d18a@mhtml.blink
+Content-Location: cid:css-ba478326-6579-4481-9d16-ae1718bb724c@mhtml.blink
 
 @charset "utf-8";
 
@@ -15701,10 +15704,10 @@ flow: ellipsis; }
 
 .p-CommandPalette-itemLabel { overflow: hidden; white-space: nowrap; text-o=
 verflow: ellipsis; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-d225d247-6386-4f3e-bf61-f3120d3bf10f@mhtml.blink
+Content-Location: cid:css-62675c2f-6c22-4bea-94a0-3d14710e51d8@mhtml.blink
 
 @charset "utf-8";
 
@@ -15735,10 +15738,10 @@ eight: 8px; transform: translateY(-50%); }
 none; }
 
 .p-DockPanel-overlay.p-mod-hidden { display: none !important; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-f6008a83-ac69-4aaf-ac5d-3734efe3fdbe@mhtml.blink
+Content-Location: cid:css-097a4672-aec4-4063-a58f-a71bb1b26f6b@mhtml.blink
 
 @charset "utf-8";
 
@@ -15759,10 +15762,10 @@ portant; }
 .p-Menu-itemLabel { display: table-cell; text-align: left; }
 
 .p-Menu-itemShortcut { display: table-cell; text-align: right; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-25e8b879-2fd0-499d-a8e5-4b95700c032e@mhtml.blink
+Content-Location: cid:css-c4b60de9-78cb-4002-89f0-58637a93568a@mhtml.blink
 
 @charset "utf-8";
 
@@ -15774,10 +15777,10 @@ on: row; list-style-type: none; }
 .p-MenuBar-item { box-sizing: border-box; }
 
 .p-MenuBar-itemIcon, .p-MenuBar-itemLabel { display: inline-block; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-8123f0c9-5ac7-4a59-815a-bd0f07cacde9@mhtml.blink
+Content-Location: cid:css-7824e295-f19d-43de-ac23-bd6214cc3ef1@mhtml.blink
 
 @charset "utf-8";
 
@@ -15793,10 +15796,10 @@ Content-Location: cid:css-8123f0c9-5ac7-4a59-815a-bd0f07cacde9@mhtml.blink
 hidden; flex: 1 1 auto; }
 
 .p-ScrollBar-thumb { box-sizing: border-box; position: absolute; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-8e2d7185-fdf4-493c-b31a-937c70fe1434@mhtml.blink
+Content-Location: cid:css-960b318b-ec72-422c-a98e-840aa501f272@mhtml.blink
 
 @charset "utf-8";
 
@@ -15820,10 +15823,10 @@ r { left: 50%; min-width: 8px; transform: translateX(-50%); }
 
 .p-SplitPanel[data-orientation=3D"vertical"] > .p-SplitPanel-handle::after =
 { top: 50%; min-height: 8px; transform: translateY(-50%); }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-822f35b7-9a4a-4fb5-be64-efc0c9248c42@mhtml.blink
+Content-Location: cid:css-51b7d252-b7dc-42b8-aaff-d3ae17d8c094@mhtml.blink
 
 @charset "utf-8";
 
@@ -15862,27 +15865,27 @@ eft: 0px; transition: left 150ms ease 0s; }
 
 .p-TabBar.p-mod-dragging .p-TabBar-tab.p-mod-dragging { transition: none 0s=
  ease 0s; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-5a115560-20cd-4193-b187-7af239728f72@mhtml.blink
+Content-Location: cid:css-b9918caf-c561-4120-8428-8279b83c7fbc@mhtml.blink
 
 @charset "utf-8";
 
 .p-TabPanel-tabBar { z-index: 1; }
 
 .p-TabPanel-stackedPanel { z-index: 0; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-356f9414-fc82-4f9e-9199-9d99a2817ae5@mhtml.blink
+Content-Location: cid:css-a51c8850-9e19-4f73-ba08-978af5ebcd11@mhtml.blink
 
 @charset "utf-8";
 =0A
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-51aa4345-4a89-44e0-a62c-39b62e6d6d64@mhtml.blink
+Content-Location: cid:css-4dfa124a-24f6-4751-af5f-d67d6db01793@mhtml.blink
 
 @charset "utf-8";
 
@@ -15891,10 +15894,10 @@ ne-block; font-style: normal; font-variant: normal; font-weight: normal; fo=
 nt-stretch: normal; line-height: 1; font-family: FontAwesome; font-size: in=
 herit; text-rendering: auto; -webkit-font-smoothing: antialiased; color: rg=
 b(217, 83, 79); padding: 3px; align-self: flex-start; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-25e42489-2c06-4c53-9666-cad9b53a394d@mhtml.blink
+Content-Location: cid:css-db401c68-bcc1-4422-b84b-f6880f547b9c@mhtml.blink
 
 @charset "utf-8";
 
@@ -15988,10 +15991,10 @@ BD; --md-grey-500: #9E9E9E; --md-grey-600: #757575; --md-grey-700: #616161;=
 300: #90A4AE; --md-blue-grey-400: #78909C; --md-blue-grey-500: #607D8B; --m=
 d-blue-grey-600: #546E7A; --md-blue-grey-700: #455A64; --md-blue-grey-800: =
 #37474F; --md-blue-grey-900: #263238; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-e25effc7-d317-4dba-b334-66d8dff6fddb@mhtml.blink
+Content-Location: cid:css-31599eed-ee3a-483c-98a4-a7d21f91deb6@mhtml.blink
 
 @charset "utf-8";
 
@@ -16042,10 +16045,10 @@ d-grey-400); --jp-toolbar-micro-height: 8px; --jp-toolbar-background: var(-=
 -jp-layout-color0); --jp-toolbar-box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.2=
 4); --jp-toolbar-header-margin: 4px 4px 0px 4px; --jp-toolbar-active-backgr=
 ound: var(--md-grey-300); }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-78df9095-5853-4a93-970d-d7dae18954f8@mhtml.blink
+Content-Location: cid:css-42b26d3a-7d37-4619-bbc6-b5ac0c4bffb1@mhtml.blink
 
 @charset "utf-8";
 
@@ -16090,10 +16093,10 @@ vertical"] .p-TabBar-tab { top: 0px; transition: top 150ms ease 0s; }
 
 .jupyter-widgets.widget-tab > .p-TabBar.p-mod-dragging .p-TabBar-tab.p-mod-=
 dragging { transition: none 0s ease 0s; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-969357db-16d9-4d4c-a929-002a412e5e8b@mhtml.blink
+Content-Location: cid:css-50c5aab7-45c8-4d88-8fef-8c4a3b88edaa@mhtml.blink
 
 @charset "utf-8";
 
@@ -16656,14 +16659,14 @@ t { align-self: stretch; flex-grow: 1; flex-shrink: 1; line-height: var(--j=
 p-widgets-inline-height); position: relative; }
 
 .widget-image { max-width: 100%; height: auto; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-3f1638a5-1a74-4654-8d3d-621c8cdccc94@mhtml.blink
+Content-Location: cid:css-675883ce-ad09-4a5b-9365-c3e2e58b1747@mhtml.blink
 
 @charset "utf-8";
 =0A
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://localhost:8888/static/components/jquery-ui/themes/smoothness/jquery-ui.min.css?v=3c2a865c832a1322285c55c6ed99abb2
@@ -17606,7 +17609,7 @@ bottom-left-radius: 4px; }
 .ui-widget-overlay { background: rgb(170, 170, 170); opacity: 0.3; }
 
 .ui-widget-shadow { box-shadow: rgb(170, 170, 170) -8px -8px 8px; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://localhost:8888/static/components/jquery-typeahead/dist/jquery.typeahead.min.css?v=7afb461de36accb1aa133a1710f5bc56
@@ -17758,7 +17761,7 @@ aovwa1kMvpQBjoY8TwVp84ylAO/YV62cKcBt65hfAbKwPKcBu6E2UE8Hl8MF+CrCFG/nwnKKKnv=
 iqONOYj6NWQDFIg/I+/3ikFnuUX6d+lY4mR4ZVnMvnoIYLbKCCp0h0otG5egXt2HAED+BFPmAP7=
 bYR7jGHV/RjCjr/AICryFzB3n8ARSX3xc83qRk4q9rDNWcAAAAASUVORK5CYII=3D") center =
 center no-repeat; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://localhost:8888/static/components/bootstrap-tour/build/css/bootstrap-tour.min.css?v=d0b3c2fce6056a2ddd5a4513762a94c4
@@ -17793,7 +17796,7 @@ sabled { cursor: default; }
 .popover[class*=3D"tour-"].orphan { position: fixed; margin-top: 0px; }
 
 .popover[class*=3D"tour-"].orphan .arrow { display: none; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://localhost:8888/static/components/codemirror/lib/codemirror.css?v=288352df06a67ee35003b0981da414ac
@@ -18028,7 +18031,7 @@ r-line > span > span::selection { background: rgb(215, 212, 240); }
 .cm-tab-wrap-hack::after { content: ""; }
 
 span.CodeMirror-selectedtext { background: none; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://localhost:8888/static/style/style.min.css?v=e91a43337d7c294cc9fab2938fa723b3
@@ -25048,7 +25051,7 @@ er: 0px; -webkit-appearance: none; }
 .navbar-nav > li > a { color: rgb(86, 86, 86); }
 
 .navbar-nav > li > a:focus { outline: -webkit-focus-ring-color auto 5px; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: font/woff2
 Content-Transfer-Encoding: base64
 Content-Location: http://localhost:8888/static/components/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
@@ -26408,7 +26411,7 @@ Ym3G7ozpIyIiIiqllFJKKUVERERExMzMzMybPzmqpzfN1sd0M1prrWeBExERERER0YGoaHr2ir8c
 /beM/nQm3q93Lo7D4VmbTvnLi9W+GbtnSEBFrM3YHSEBFbE2j4329RZ+GWKVct20wZ/IetvJXURE
 RERERERmZmZmZmZmVlVVVVVVVVWzabq6e3r7ppOcf4Q2vU5krQEA
 
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://localhost:8888/static/notebook/css/override.css?v=e6f18013b8771987812e992b38ec3318
@@ -26416,14 +26419,14 @@ Content-Location: http://localhost:8888/static/notebook/css/override.css?v=e6f18
 @charset "utf-8";
 
 #ipython-main-app { position: relative; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://localhost:8888/custom/custom.css
 
 @charset "utf-8";
 =0A
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://localhost:8888/nbextensions/nb_conda/conda.css
@@ -26457,7 +26460,7 @@ ign: center; }
 label { margin-right: 8px; margin-bottom: 8px; }
 
 .new_env_form input { margin-right: 15px; }
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: http://localhost:8888/static/base/images/logo.png?v=641991992878ee24c6f3826e81054a0f
@@ -26567,7 +26570,7 @@ uRtcCbgSUCRQrUCK/18pN5PyLwOt8wET6MauBJq7BCwFYq/zYURh6NqOsWPHyg+V3OBKwJWAIgFL
 gfCfPQE8rGcM5Zqo1HGTrgRcCYQkYCkQrup1Hq9nGGc8e0zpkD6MYo2h7FUT5sauBFwJVEvA8sKZ
 IPY6OudB8kMtLx/K2DZy5MgGvwdntu3GrgRONwn8P/bAJ2+7POJyAAAAAElFTkSuQmCC
 
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU----
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: http://localhost:8888/kernelspecs/python3/logo-64x64.png
@@ -26612,4 +26615,4 @@ O7YWYq0HdXqRXr3JlpcAuQ/1z24XKfdB2Un8rzGevPkyjI6sBvhVwD5wka/98NEL4S+RxmOysOt8
 7GuBUDBe/tQsaLoOYB2gCzK/UQciCeAiBK9B0Q/weQgOoVIOyfznzmBqTI2pMTUmefwX5Mz8p5zV
 bn8AAAAASUVORK5CYII=
 
-------MultipartBoundary--mYAOerGMGMP7Kz4tvUwfkrbd4HUxFv7FW1UrH0nBJU------
+------MultipartBoundary--V15L9BFTUyC1mt5PwhcuBINf5jYydfGR0lE9F1WtE8------
